@@ -1,0 +1,11 @@
+name: Backpacks
+version: '${project.version}'
+main: main.Main
+api-version: 1.18
+commands:
+  backpack:
+    description: "Backpack Plugin by GunterPro7"
+    usage: "/backpack"
+  bp:
+    description: "Backpack Plugin by GunterPro7"
+    usage: "/bp"

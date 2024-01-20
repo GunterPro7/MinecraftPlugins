@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="http">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Downloads/httpcomponents-client-5.2.1-bin.zip!/javadoc/org/apache/hc/client5/http" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/httpcomponents-client-5.2.1-bin.zip!/javadoc/org/apache/hc/client5/http" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/httpcomponents-client-5.2.1-bin.zip!/javadoc/org/apache/hc/client5/http" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="jar://$USER_HOME$/Downloads/httpcomponents-client-5.2.1-bin.zip!/javadoc/org/apache/hc/client5/http" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/httpcomponents-client-5.2.1-bin.zip!/javadoc/org/apache/hc/client5/http" />
+    </SOURCES>
+    <jarDirectory url="jar://$USER_HOME$/Downloads/httpcomponents-client-5.2.1-bin.zip!/javadoc/org/apache/hc/client5/http" recursive="false" />
+    <jarDirectory url="jar://$USER_HOME$/Downloads/httpcomponents-client-5.2.1-bin.zip!/javadoc/org/apache/hc/client5/http" recursive="false" type="SOURCES" />
+  </library>
+</component>

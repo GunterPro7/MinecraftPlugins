@@ -1,0 +1,11 @@
+name: Waypoint
+version: '1.0-SNAPSHOT'
+main: main.Main
+api-version: 1.14
+commands:
+  waypoint:
+    description: "Waypoint command"
+    usage: "/waypoint"
+  wp:
+    description: "Waypoint command"
+    usage: "/wp"

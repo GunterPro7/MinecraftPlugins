@@ -1,0 +1,11 @@
+name: UltimateTools
+version: '${project.version}'
+main: main.Main
+api-version: 1.18
+commands:
+  ultimateTools:
+    description: "UltimateTools command"
+    usage: "/ultimateTools"
+  ut:
+    description: "UltimateTools command"
+    usage: "/ut"

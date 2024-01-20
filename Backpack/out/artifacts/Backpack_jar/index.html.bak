@@ -1,0 +1,39 @@
+<?php
+if ($_GET['run']) {
+  # This code will run if ?run=true is set.
+  exec("/path/to/name.sh");
+}
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <!--
+    Modified from the Debian original for Ubuntu
+    Last updated: 2016-11-16
+    See: https://launchpad.net/bugs/1288690
+  -->
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Apache2 Ubuntu Default Page: It works</title>
+    <style type="text/css" media="screen">
+		body {
+		    background-color: #222222;
+			color: white;
+		}
+    </style>
+  </head>
+  <body>
+  <p>Start DC server (if it stopped)!</p>
+  <?php
+if ($_GET['run']) {
+  # This code will run if ?run=true is set.
+  exec("/path/to/name.sh");
+}
+?>
+  <a href="?run=true">Click Me!</a>
+  <br><br><br><br>
+  <a href="log.txt" download>Get log file (if server restarts, new content gets appended)!</a>
+  <script>  
+  </script>
+  </body>
+</html>
+
