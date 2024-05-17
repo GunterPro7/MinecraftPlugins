@@ -1,0 +1,8 @@
+name: Waypoint
+version: '${project.version}'
+main: main.Main
+api-version: 1.14
+commands:
+  gunter_mode:
+    description: "Enable / Disable Gunter-Mode"
+    usage: "/gunter_mode"

@@ -1,0 +1,11 @@
+GunterMode-Plugin
+
+Features:
+    - Trying to sleep lets you explode
+    - There is a 1 / 10000 chance to light up
+    - There is a Water-Bar (lvl bar)
+        -> Refills by water bottles
+        -> You die slowly if you have no more water left
+        -> In Nether and Deserts you are thrist faster
+    - Jedes Mal, wenn ein Zombie spawnt gibt es eine 1% chance, das sie in 1 bis 32+ Gruppen spawnen (100 Sekunden cooldown, das keine Rekursion entsteht)
+

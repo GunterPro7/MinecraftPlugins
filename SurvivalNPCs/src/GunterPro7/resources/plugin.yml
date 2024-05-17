@@ -1,0 +1,8 @@
+name: CookieClicker
+version: '${project.version}'
+main: main.Main
+api-version: 1.14
+commands:
+  npc:
+    description: "Open Cookie Clicker GUI"
+    usage: "/npc"

@@ -1,0 +1,7 @@
+name: CodingBook
+version: '${project.version}'
+main: main.Main
+api-version: 1.14
+commands:
+  codingbook:
+    usage: /codingbook
